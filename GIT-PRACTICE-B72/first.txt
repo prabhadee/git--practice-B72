@@ -1,0 +1,7 @@
+Here is our first day of Internet technologies B72.
+
+first day content
+
+====================================================
+
+1.Version Controlling System (VSC)
